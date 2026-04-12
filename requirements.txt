@@ -9,7 +9,6 @@ gast==0.2.2
 google-auth==1.18.0
 google-auth-oauthlib==0.4.1
 google-pasta==0.2.0
-
 gunicorn==20.0.4
 h5py==2.10.0
 idna==2.10
@@ -37,7 +36,6 @@ scipy==1.5.1
 six==1.15.0
 sklearn==0.0
 tensorboard==2.0.2
-
 termcolor==1.1.0
 threadpoolctl==2.1.0
 urllib3==1.25.9
